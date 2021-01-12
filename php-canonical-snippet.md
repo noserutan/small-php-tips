@@ -1,3 +1,6 @@
+# Description
+***PHP Snippet to generate a cannonical (Good for SEO)***
+
 # Single line
 ```
 <link rel='canonical' href='<?= (isset($_SERVER['HTTPS']) && $_SERVER['HTTPS'] === 'on') ? "https://" : "http://".strtok($_SERVER['HTTP_HOST'] . $_SERVER['REQUEST_URI'], "?"); ?>'>
