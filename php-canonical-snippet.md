@@ -4,8 +4,13 @@
 ```
 
 # Working with examples
+
 ***example.com/***
+
 ***example.com/page.html***
+
 ***example.com/page.html/***
+
 ***example.com/page.html?pr=something&sp=number***
+
 ***example.com/page.html/?pr=something&sp=number***
